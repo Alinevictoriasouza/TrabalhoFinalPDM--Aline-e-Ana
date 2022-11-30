@@ -1,0 +1,84 @@
+body {
+    background-color: rgb(194, 190, 170);
+}
+
+.container {
+    box-sizing: border-box;
+    max-width: 100%;
+    width: 960px;
+    margin: 0 auto;
+    padding: 1em;
+}
+
+.titulo{
+    text-align: center;
+    color: rgb(103, 107, 87);
+    font-size: 2em;
+}
+
+.conteudo{
+    background-color: rgb(182, 176, 149);
+    margin: 1.5em 0;
+    box-shadow: 3px 3px 3px rgba(182, 189, 145, 0.3);
+    text-align: center;
+}
+
+.conteudoLocalizacao{
+    font-size: 1.5em;
+}
+
+.rodape{
+    text-align: center;
+    border-radius: 5%;
+}
+
+.cabecalhoConteudo{
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    color: rgb(69, 68, 59);
+}
+
+.botao{
+    background-color: rgb(94, 89, 68);
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    width: 100%;
+}
+
+.botaop{
+    background-color: rgb(94, 89, 68);
+    border: none;
+    border-radius: 10px;
+    margin-top: 5%;
+    font-size: 20px;
+    height: 35px;
+    width: 30%;
+}
+
+.botaopp{
+    background-color: rgb(94, 89, 68);
+    border: none;
+    border-radius: 10px;
+    margin-top: 5%;
+    font-size: 20px;
+    height: 35px;
+    width: 40%;
+}
+
+#tudo{
+    text-align: center;
+    font-size: 17px;
+    background-color: rgb(182, 176, 149);
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+#imagem{
+    width: 30%;
+}

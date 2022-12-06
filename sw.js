@@ -2,7 +2,7 @@
 // previously cached resources to be updated from the network.
 const OFFLINE_VERSION = 1;
 const CACHE_NAME = "Livraria-Online";
-const OFFLINE_URL = "/fallback";
+const OFFLINE_URL = "/offline";
 // Customize this with a different URL if needed.
 self.addEventListener("install", (event) => {
     event.waitUntil(

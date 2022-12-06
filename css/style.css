@@ -69,6 +69,7 @@ body {
     font-size: 20px;
     height: 35px;
     width: 40%;
+    font-size: 20px;
 }
 
 #tudo{
@@ -81,4 +82,22 @@ body {
 
 #imagem{
     width: 30%;
+}
+
+.mapouter{
+    padding: 15px 32px;
+    text-align: center;
+    display: inline-block;
+    font-size: 16px;
+    width: 100%;
+}
+
+.gmap_canvas {
+    overflow:hidden;
+    background:none!important;
+}
+
+.gmap_iframe {
+    width:600px!important;
+    height:400px!important;
 }

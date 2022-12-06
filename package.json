@@ -1,7 +1,7 @@
 {
-  "name": "geolocation-app",
+  "name": "livraria-app",
   "version": "1.0.0",
-  "description": "captura a localização em coordenadas geográficas",
+  "description": "captura a localização em coordenadas geográficas e uma livraria",
   "main": "index.html",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",

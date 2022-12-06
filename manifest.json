@@ -1,6 +1,6 @@
 {
-    "name": "Geolocation Progressive Web App",
-    "short_name": "Geolocation PWA",
+    "name": "Livraria online",
+    "short_name": "livraria",
     "icons": [
         {
             "src": "img/pwa-iicon-256.png",

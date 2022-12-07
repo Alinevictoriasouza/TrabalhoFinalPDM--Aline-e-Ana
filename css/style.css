@@ -101,3 +101,10 @@ body {
     width:600px!important;
     height:400px!important;
 }
+
+@media(max-width: 600px) {
+    .mapouter{
+        width: 70%;
+        height: 60%;
+    }
+}
